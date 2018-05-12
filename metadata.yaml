@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1015'
     url: http://www.gutenberg.org/2009/agents/1015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31774#Si-Klegg-Book-4--13-Experiences-of-Si-and-Shorty-on-the-Great-Tullahoma-Campaign
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
